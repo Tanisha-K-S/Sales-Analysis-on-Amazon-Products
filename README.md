@@ -23,5 +23,6 @@ The dashboard was created using a **Power BI Template (.pbit)** so that users ca
 - **DAX** (for calculated measures & KPIs)  
 - **Amazon Sales Dataset** (sample data)  
 
+![image alt]([image_url](https://github.com/Tanisha-K-S/Sales-Analysis-on-Amazon-Products/blob/c4ec6b0b57f2ac8fdcc9eaaf3fb8ae9e995fcd88/Amazon%20Sales%20Dashboard.jpg))
 
 
